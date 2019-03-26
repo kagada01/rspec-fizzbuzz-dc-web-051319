@@ -3,6 +3,6 @@ def fizzbuzz(number)
     fb = "FizzBuzz"
     fizz
   else
-    
+    puts "woops"
   end
 end
