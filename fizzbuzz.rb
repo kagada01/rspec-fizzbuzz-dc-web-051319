@@ -1,3 +1,3 @@
 def fizzbuzz(number)
-  if 
+  if (number%3)
 end
