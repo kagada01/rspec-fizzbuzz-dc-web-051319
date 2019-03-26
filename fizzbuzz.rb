@@ -3,7 +3,11 @@ def fizzbuzz(number)
     fb = "FizzBuzz"
     fb
     elsif (number % 3 == 0)
-    fizz = "Fizz"
-    fizz
+      fizz = "Fizz"
+      fizz
+      elsif (number % 3 == 0)
+        fizz = "Fizz"
+        fizz
+    
   end
 end
