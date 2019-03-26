@@ -3,5 +3,5 @@ def fizzbuzz(number)
     fizz = "Fizz"
     fizz
   else
-end
+  end
 end
