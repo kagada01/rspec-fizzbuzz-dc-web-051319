@@ -8,5 +8,6 @@ def fizzbuzz(number)
   elsif (number % 3)
     fizz = "Fizz"
       fizz
+  else (number ==)
   end
 end
