@@ -8,6 +8,6 @@ def fizzbuzz(number)
       elsif ((number % 5) == 0)
         buzz = "Buzz"
         buzz
-        else ( ((number % 3 ) !==0) || ((number % 5 ) !== 0))
+        else ( (( number % 3 ) !==0 ) || (( number % 5 ) !== 0 ))
   end
 end
