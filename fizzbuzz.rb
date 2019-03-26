@@ -2,6 +2,9 @@ def fizzbuzz(number)
   if (number % 3)
     fizz = "Fizz"
     fizz
-  else
+  elsif
+  if (number % 5)
+    buzz = "Buzz"
+    buzz
   end
 end
