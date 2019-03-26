@@ -1,7 +1,7 @@
 def fizzbuzz(number)
   if (number % 3)
     fizz = "Fizz"
-    fizz
+      fizz
   elsif (number % 5)
     buzz = "Buzz"
     buzz
