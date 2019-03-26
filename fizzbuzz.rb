@@ -4,6 +4,6 @@ def fizzbuzz(number)
       fizz
   elsif (number % 5)
     buzz = "Buzz"
-    buzz
+      buzz
   end
 end
